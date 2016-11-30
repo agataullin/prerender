@@ -22,6 +22,7 @@ REDIS_PORT=
 
 ```
 vagrant ssh
+cd ~/Code
 nf start # start the prerender service
 ```
 
